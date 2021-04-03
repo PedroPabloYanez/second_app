@@ -2176,7 +2176,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("header.jpg");
+		background-image: url("/home/pedro/Documentos/DESAFIO_LATAM/Desarrollo_de_APPWeb_conRails/Aplicacion_Con_Rails/sesion_experimental2/Apoyo Desafío - Proyecto clase/second_app/app/assets/images/header.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
